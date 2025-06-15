@@ -249,6 +249,12 @@ __marimo__/
 
 
 *.npy
+!Paper_examples/*.npy
+
+
+
+
+
 Spectral_filtering/Filtering_with_Deep_Models/dpir_repo
 Spectral_filtering/Filtering_with_Deep_Models/KBNet
 Spectral_filtering/Filtering_with_Deep_Models/restormer_repo
