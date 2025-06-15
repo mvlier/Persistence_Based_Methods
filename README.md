@@ -18,52 +18,13 @@ We validate our approach by implementing the filter in an open-source software a
 <br><br>
 ## Illustrative Examples
 
-The Illustrative examples (Section 9) are available at [Reproducing_paper_examples.ipynb](./Paper_examples/Reproducing_paper_examples.ipynb). Below we see the illustrations produced for these examples.
+The Illustrative examples (Section 9) are available at [Reproducing_paper_examples.ipynb](./Paper_examples/Reproducing_paper_examples.ipynb). 
+
+Below we see the illustrations produced for these examples.
 
 
-<style>
-    .grid-container {
-        display: grid;
-        grid-template-columns: repeat(5, 1fr);
-        grid-template-rows: repeat(4, 200px);
-        gap: 5px;
-        width: 100%;
-        max-width: 1000px;
-        margin: auto;
-    }
-    .grid-container img {
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-        display: block;
-    }
-    .image1   { grid-column: 1 / span 3; grid-row: 1 / span 2; }
-    .image2   { grid-column: 4 / span 2; grid-row: 1 / span 1; }
-    .image3   { grid-column: 4 / span 2; grid-row: 2 / span 1; }
-    .image4   { grid-column: 1; grid-row: 3; }
-    .image5   { grid-column: 2; grid-row: 3; }
-    .image6   { grid-column: 3; grid-row: 3; }
-    .image7   { grid-column: 4; grid-row: 3; }
-    .image8   { grid-column: 5; grid-row: 3; }
-    .image9   { grid-column: 1 / span 3; grid-row: 4; }
-    .image10  { grid-column: 4; grid-row: 4; }
-    .image11  { grid-column: 5; grid-row: 4; }
-</style>
+<img src="./Paper_examples/image/grid-images-examples.png" alt="Figure" width="645"/>
 
-
-<div class="grid-container">
-    <img src="./Paper_examples/image/1D-toy-example.png" class="image1" alt="Image 1">
-    <img src="./Paper_examples/image/pagoda-original.png" class="image2" alt="Image 2">
-    <img src="./Paper_examples/image/pagoda-9980.png" class="image3" alt="Image 3">
-    <img src="./Paper_examples/image/mesh-original.png" class="image4" alt="Image 4">
-    <img src="./Paper_examples/image/mesh-0LPF.png" class="image5" alt="Image 5">
-    <img src="./Paper_examples/image/mesh-0LPF-1LPF.png" class="image6" alt="Image 6">
-    <img src="./Paper_examples/image/shekel-original.png" class="image7" alt="Image 7">
-    <img src="./Paper_examples/image/shekel-original-diagram.png" class="image8" alt="Image 8">
-    <img src="./Paper_examples/image/mesh-diagrams.png" class="image9" alt="Image 9">
-    <img src="./Paper_examples/image/shekel-simplified.png" class="image10" alt="Image 10">
-    <img src="./Paper_examples/image/shekel-simplified-diagram.png" class="image11" alt="Image 11">
-</div>
 
 
 <br><br>
